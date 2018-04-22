@@ -1,0 +1,20 @@
+{
+  "name": "named-objects",
+  "version": "1.0.0",
+  "description": "A custom devtool formatter used to name objects for debugging purposes",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sylvainpolletvillard/named-objects.git"
+  },
+  "keywords": [
+    "devtools",
+    "prototype"
+  ],
+  "author": "Sylvain Pollet-Villard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sylvainpolletvillard/named-objects/issues"
+  },
+  "homepage": "https://github.com/sylvainpolletvillard/named-objects#readme"
+}
