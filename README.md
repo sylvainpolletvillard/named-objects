@@ -36,13 +36,19 @@ const maVoiture = New(Yaris)({ owner: "Sylvain" })
 
 ## Screenshot
 
+![image](https://user-images.githubusercontent.com/566536/39098812-a29b1d72-4670-11e8-93c5-60ee62d05bf0.png)
+
 ## Enabling custom dev formatters on Chrome
 
 Chrome currently doesn’t have custom formatters enabled by default. You need to enter the DevTools settings via the menu at the top right of the DevTools panel.
 
 Entering DevTools settings from the dropdown
 
+![image](https://user-images.githubusercontent.com/566536/39098815-b83842ae-4670-11e8-8076-86d41da6e82c.png)
+
 Then select “General” and enable custom formatters in the “Console” section.
+
+![image](https://user-images.githubusercontent.com/566536/39098820-c4a91914-4670-11e8-8a27-908f8723a8e8.png)
 
 Custom formatters checkbox in Chrome
 
